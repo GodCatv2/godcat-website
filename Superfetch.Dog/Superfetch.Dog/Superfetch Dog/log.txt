@@ -1,0 +1,279 @@
+  . Starting log.
+  . Writing to log.txt
+  . Initializing SUGAR v0.0.6.
+  . Running on Windows.
+  . Using SDL 2.28.2
+  . Using LuaJIT 2.1.1692716794
+  . Using Lua 5.1.4
+  . Running from: E:\Programas\BeefTool\index\Superfetch.Dog\Superfetch.Dog\Superfetch Dog\
+  . Created new memory chunk '_sugar_'.
+  . FreeType library was initialized.
+  . Using FreeType 2.12.1
+  . Relocating chunk '_sugar_' for resizing.
+  . Resized '_sugar_' to 0x01F4 bytes to fit new 'default_font' req.
+  . Correctly requested 'default_font' 0x01F3 bytes at 0x01 in chunk '_sugar_'.
+  . The 95 glyphs font 'default' was created.
+  . GFX system initialized.
+  . Time system initialized.
+  . Input system initialized.
+  . Successfully opened audio device
+  . Could not get device name.
+  . Driver: wasapi
+  . Frequency: 44100
+  . Format: 0x8010
+  . Channels: 2
+  . Samples: 2048
+  . Audio system initialized.
+  . All systems initialized.
+  . 
+  . Found 'code' chunk.
+  . Found '../../libs/toolkit.lua' chunk.
+  . Found '../../libs/ents.lua' chunk.
+  . Found '../../libs/dirload.lua' chunk.
+  . Found '../../libs/gifkey.lua' chunk.
+  . Found '../../libs/remy_systems.lua' chunk.
+  . Found '../../libs/hdtext.lua' chunk.
+  . Found 'code/data.lua' chunk.
+  . Found 'code/title.lua' chunk.
+  . Found 'code/flag_edit.lua' chunk.
+  . Found 'code/perlin.lua' chunk.
+  . Found 'code/save.lua' chunk.
+  . Found 'assets/gfx/gfx.png' chunk.
+  . Found 'assets/sfx/ball_bounce.wav' chunk.
+  . Found 'assets/sfx/bark.wav' chunk.
+  . Found 'assets/sfx/bump_boar.wav' chunk.
+  . Found 'assets/sfx/bump_shroom.wav' chunk.
+  . Found 'assets/sfx/buzz.wav' chunk.
+  . Found 'assets/sfx/cancel.wav' chunk.
+  . Found 'assets/sfx/catch_ball.wav' chunk.
+  . Found 'assets/sfx/expand_bush.wav' chunk.
+  . Found 'assets/sfx/flap.wav' chunk.
+  . Found 'assets/sfx/hand_grab.wav' chunk.
+  . Found 'assets/sfx/hit_dog.wav' chunk.
+  . Found 'assets/sfx/hit_dog_final.wav' chunk.
+  . Found 'assets/sfx/hit_girl.wav' chunk.
+  . Found 'assets/sfx/inc_hp.wav' chunk.
+  . Found 'assets/sfx/jump.wav' chunk.
+  . Found 'assets/sfx/last_buzz.wav' chunk.
+  . Found 'assets/sfx/launch.wav' chunk.
+  . Found 'assets/sfx/leaf_step.wav' chunk.
+  . Found 'assets/sfx/press_start.wav' chunk.
+  . Found 'assets/sfx/regen.wav' chunk.
+  . Found 'assets/sfx/release_ball.wav' chunk.
+  . Found 'assets/sfx/select_card.wav' chunk.
+  . Found 'assets/sfx/spawn_boar.wav' chunk.
+  . Found 'assets/sfx/step.wav' chunk.
+  . Found 'assets/sfx/stuck.wav' chunk.
+  . Found 'assets/sfx/Text_00.wav' chunk.
+  . Found 'assets/sfx/Text_01.wav' chunk.
+  . Found 'assets/sfx/Text_02.wav' chunk.
+  . Found 'assets/sfx/Text_03.wav' chunk.
+  . Found 'assets/sfx/Text_04.wav' chunk.
+  . Found 'assets/sfx/Text_05.wav' chunk.
+  . Found 'assets/sfx/Text_06.wav' chunk.
+  . Found 'assets/sfx/Text_07.wav' chunk.
+  . Found 'assets/sfx/tic.wav' chunk.
+  . Found 'assets/sfx/wood_step.wav' chunk.
+  . Found 'assetssfxwav.bnk' chunk.
+  . Found 'assets/music/ambience.mp3' chunk.
+  . Found 'assets/music/boar.mp3' chunk.
+  . Found 'assets/music/ingame.mp3' chunk.
+  . Found 'assets/music/ingame_2.mp3' chunk.
+  . Found 'assets/music/title_A.mp3' chunk.
+  . Found 'assets/music/title_B.mp3' chunk.
+  . Found 'assetsmusicmp3.bnk' chunk.
+  . Found 'assets/gfx/bg.png' chunk.
+  . Found 'assets/gfx/skills.png' chunk.
+  . Found 'assets/gfx/pico_font.png' chunk.
+  . Found 'flags.bnk' chunk.
+  . Found 'level.bnk' chunk.
+  . Found 'assets/gfx/antiqua_font.png' chunk.
+  . Found 'assets/sfx/boar_notice.wav' chunk.
+  . Found 'assets/sfx/bitten.wav' chunk.
+  . Found 'assets/sfx/bite.wav' chunk.
+  . Found 'assets/sfx/spawn_snake.wav' chunk.
+  . Found 'assets/gfx/wild.png' chunk.
+  . Found 'assets/sfx/bump_hive.wav' chunk.
+  . Found 'assets/sfx/hit_dog_small.wav' chunk.
+  . Found 'assets/sfx/eat_bird.wav' chunk.
+  . Found 'assets/sfx/splash.wav' chunk.
+  . Found 'assets/sfx/save_gale.wav' chunk.
+  . Found 'assets/sfx/validate.wav' chunk.
+  . Found 'assets/sfx/grab_card.wav' chunk.
+  . Found 'assets/sfx/prep_cards.wav' chunk.
+  . Found 'assets/gfx/foliage.png' chunk.
+  . Found 'assets/sfx/spawn_hive.wav' chunk.
+  . Found 'assets/sfx/jump_down.wav' chunk.
+  . Found 'assets/music/ambience_seaside.mp3' chunk.
+  . Found 'assets/music/gameover.mp3' chunk.
+  . Found 'assets/sfx/pause_in.wav' chunk.
+  . Found 'assets/sfx/pause_out.wav' chunk.
+  . Found '../../punkcake/punkcake_intro.lua' chunk.
+  . Found '../../punkcake/punkcake_sheet.png' chunk.
+  . Found '../../punkcake/slap.wav' chunk.
+  . Found '../../punkcake/chomp.wav' chunk.
+  . Found '../../punkcake/punkcake.wav' chunk.
+  . Found '../../punkcake/delicieux.wav' chunk.
+  . Found 'achievements/ach.png' chunk.
+  . Successfully loaded data.sgr.
+  . Deleted font 'default'.
+  . Correctly requested 'default_font' 0x01F3 bytes at 0x01 in chunk '_sugar_'.
+  . The 95 glyphs font 'default' was created.
+  . Running...
+  . Relocating chunk '_sugar_' for resizing.
+  . Resized '_sugar_' to 0x01FC34 bytes to fit new 'hdtext_srf' req.
+  . Correctly requested 'hdtext_srf' 0x01FA40 bytes at 0x01F4 in chunk '_sugar_'.
+  . Created the 480 x 270 surface 'hdtext'.
+  . Loaded sfx 'ball_bounce' from file 'assets/sfx/ball_bounce.wav'
+  . Loaded sfx 'bark' from file 'assets/sfx/bark.wav'
+  . Loaded sfx 'bite' from file 'assets/sfx/bite.wav'
+  . Loaded sfx 'bitten' from file 'assets/sfx/bitten.wav'
+  . Loaded sfx 'boar_notice' from file 'assets/sfx/boar_notice.wav'
+  . Loaded sfx 'bump_boar' from file 'assets/sfx/bump_boar.wav'
+  . Loaded sfx 'bump_hive' from file 'assets/sfx/bump_hive.wav'
+  . Loaded sfx 'bump_shroom' from file 'assets/sfx/bump_shroom.wav'
+  . Loaded sfx 'buzz' from file 'assets/sfx/buzz.wav'
+  . Loaded sfx 'cancel' from file 'assets/sfx/cancel.wav'
+  . Loaded sfx 'catch_ball' from file 'assets/sfx/catch_ball.wav'
+  . Loaded sfx 'eat_bird' from file 'assets/sfx/eat_bird.wav'
+  . Loaded sfx 'expand_bush' from file 'assets/sfx/expand_bush.wav'
+  . Loaded sfx 'flap' from file 'assets/sfx/flap.wav'
+  . Loaded sfx 'grab_card' from file 'assets/sfx/grab_card.wav'
+  . Loaded sfx 'hand_grab' from file 'assets/sfx/hand_grab.wav'
+  . Loaded sfx 'hit_dog' from file 'assets/sfx/hit_dog.wav'
+  . Loaded sfx 'hit_dog_final' from file 'assets/sfx/hit_dog_final.wav'
+  . Loaded sfx 'hit_dog_small' from file 'assets/sfx/hit_dog_small.wav'
+  . Loaded sfx 'hit_girl' from file 'assets/sfx/hit_girl.wav'
+  . Loaded sfx 'inc_hp' from file 'assets/sfx/inc_hp.wav'
+  . Loaded sfx 'jump' from file 'assets/sfx/jump.wav'
+  . Loaded sfx 'jump_down' from file 'assets/sfx/jump_down.wav'
+  . Loaded sfx 'last_buzz' from file 'assets/sfx/last_buzz.wav'
+  . Loaded sfx 'launch' from file 'assets/sfx/launch.wav'
+  . Loaded sfx 'leaf_step' from file 'assets/sfx/leaf_step.wav'
+  . Loaded sfx 'pause_in' from file 'assets/sfx/pause_in.wav'
+  . Loaded sfx 'pause_out' from file 'assets/sfx/pause_out.wav'
+  . Loaded sfx 'prep_cards' from file 'assets/sfx/prep_cards.wav'
+  . Loaded sfx 'press_start' from file 'assets/sfx/press_start.wav'
+  . Loaded sfx 'regen' from file 'assets/sfx/regen.wav'
+  . Loaded sfx 'release_ball' from file 'assets/sfx/release_ball.wav'
+  . Loaded sfx 'save_gale' from file 'assets/sfx/save_gale.wav'
+  . Loaded sfx 'select_card' from file 'assets/sfx/select_card.wav'
+  . Loaded sfx 'spawn_boar' from file 'assets/sfx/spawn_boar.wav'
+  . Loaded sfx 'spawn_hive' from file 'assets/sfx/spawn_hive.wav'
+  . Loaded sfx 'spawn_snake' from file 'assets/sfx/spawn_snake.wav'
+  . Loaded sfx 'splash' from file 'assets/sfx/splash.wav'
+  . Loaded sfx 'step' from file 'assets/sfx/step.wav'
+  . Loaded sfx 'stuck' from file 'assets/sfx/stuck.wav'
+  . Loaded sfx 'Text_00' from file 'assets/sfx/Text_00.wav'
+  . Loaded sfx 'Text_01' from file 'assets/sfx/Text_01.wav'
+  . Loaded sfx 'Text_02' from file 'assets/sfx/Text_02.wav'
+  . Loaded sfx 'Text_03' from file 'assets/sfx/Text_03.wav'
+  . Loaded sfx 'Text_04' from file 'assets/sfx/Text_04.wav'
+  . Loaded sfx 'Text_05' from file 'assets/sfx/Text_05.wav'
+  . Loaded sfx 'Text_06' from file 'assets/sfx/Text_06.wav'
+  . Loaded sfx 'Text_07' from file 'assets/sfx/Text_07.wav'
+  . Loaded sfx 'tic' from file 'assets/sfx/tic.wav'
+  . Loaded sfx 'validate' from file 'assets/sfx/validate.wav'
+  . Loaded sfx 'wood_step' from file 'assets/sfx/wood_step.wav'
+  . Loaded music 'ambience' from file 'assets/music/ambience.mp3'
+  . Loaded music 'ambience_seaside' from file 'assets/music/ambience_seaside.mp3'
+  . Loaded music 'boar' from file 'assets/music/boar.mp3'
+  . Loaded music 'gameover' from file 'assets/music/gameover.mp3'
+  . Loaded music 'ingame' from file 'assets/music/ingame.mp3'
+  . Loaded music 'ingame_2' from file 'assets/music/ingame_2.mp3'
+  . Loaded music 'title_A' from file 'assets/music/title_A.mp3'
+  . Loaded music 'title_B' from file 'assets/music/title_B.mp3'
+  . Relocating chunk '_sugar_' for resizing.
+  . Resized '_sugar_' to 0x02E434 bytes to fit new 'gfx_srf' req.
+  . Correctly requested 'gfx_srf' 0xE800 bytes at 0x01FC34 in chunk '_sugar_'.
+  . Created the 128 x 464 surface 'gfx'.
+  . Correctly loaded 'assets/gfx/gfx.png' into 'gfx' surface.
+  . Relocating chunk '_sugar_' for resizing.
+  . Resized '_sugar_' to 0x0435B4 bytes to fit new 'bg_srf' req.
+  . Correctly requested 'bg_srf' 0x015180 bytes at 0x02E434 in chunk '_sugar_'.
+  . Created the 640 x 135 surface 'bg'.
+  . Correctly loaded 'assets/gfx/bg.png' into 'bg' surface.
+  . Relocating chunk '_sugar_' for resizing.
+  . Resized '_sugar_' to 0x0535B4 bytes to fit new 'skills_srf' req.
+  . Correctly requested 'skills_srf' 0x010000 bytes at 0x0435B4 in chunk '_sugar_'.
+  . Created the 256 x 256 surface 'skills'.
+  . Correctly loaded 'assets/gfx/skills.png' into 'skills' surface.
+  . Relocating chunk '_sugar_' for resizing.
+  . Resized '_sugar_' to 0x0635B4 bytes to fit new 'wild_srf' req.
+  . Correctly requested 'wild_srf' 0x010000 bytes at 0x0535B4 in chunk '_sugar_'.
+  . Created the 256 x 256 surface 'wild'.
+  . Correctly loaded 'assets/gfx/wild.png' into 'wild' surface.
+  . Resized '_sugar_' to 0x0671B4 bytes to fit new 'foliage_srf' req.
+  . Correctly requested 'foliage_srf' 0x3C00 bytes at 0x0635B4 in chunk '_sugar_'.
+  . Created the 240 x 64 surface 'foliage'.
+  . Correctly loaded 'assets/gfx/foliage.png' into 'foliage' surface.
+  . Resized '_sugar_' to 0x06726D bytes to fit new 'pico_font' req.
+  . Correctly requested 'pico_font' 0xB9 bytes at 0x0671B4 in chunk '_sugar_'.
+  . The 95 glyphs font 'pico' was loaded from assets/gfx/pico_font.png
+  . Resized '_sugar_' to 0x067446 bytes to fit new 'antiqua_font' req.
+  . Correctly requested 'antiqua_font' 0x01D9 bytes at 0x06726D in chunk '_sugar_'.
+  . The 67 glyphs font 'antiqua' was loaded from assets/gfx/antiqua_font.png
+  . Resized '_sugar_' to 0x0674A6 bytes to fit new 'save_bnk' req.
+  . Correctly requested 'save_bnk' 0x60 bytes at 0x067446 in chunk '_sugar_'.
+  . Relocating chunk '_sugar_' for resizing.
+  . Resized '_sugar_' to 0x086EE6 bytes to fit new 'Super Fetch Ball_screen_srf' req.
+  . Correctly requested 'Super Fetch Ball_screen_srf' 0x01FA40 bytes at 0x0674A6 in chunk '_sugar_'.
+  . Created new window 'Super Fetch Ball'.
+  . Relocating chunk '_sugar_' for resizing.
+  . Resized '_sugar_' to 0x0877E6 bytes to fit new '__boot_sheet___srf' req.
+  . Correctly requested '__boot_sheet___srf' 0x0900 bytes at 0x086EE6 in chunk '_sugar_'.
+  . Created the 96 x 24 surface '__boot_sheet__'.
+  . Deleted surface '__boot_sheet__'.
+  . Correctly requested '__boot_sheet___srf' 0x0900 bytes at 0x086EE6 in chunk '_sugar_'.
+  . Created the 96 x 24 surface '__boot_sheet__'.
+  . Deleted surface '__boot_sheet__'.
+ !! Setting overlay...
+  . Set hdtext as overlay surface for Super Fetch Ball
+  . Steam API initialized.
+  . Relocating chunk '_sugar_' for resizing.
+  . Resized '_sugar_' to 0x08AEE6 bytes to fit new 'pcd_sheet_srf' req.
+  . Correctly requested 'pcd_sheet_srf' 0x4000 bytes at 0x086EE6 in chunk '_sugar_'.
+  . Created the 128 x 128 surface 'pcd_sheet'.
+  . Correctly loaded '../../punkcake/punkcake_sheet.png' into 'pcd_sheet' surface.
+  . Loaded sfx 'pcd_slap' from file '../../punkcake/slap.wav'
+  . Loaded sfx 'pcd_chomp' from file '../../punkcake/chomp.wav'
+  . Loaded sfx 'pcd_punkcake' from file '../../punkcake/punkcake.wav'
+  . Loaded sfx 'pcd_delicieux' from file '../../punkcake/delicieux.wav'
+  . Deleted surface 'pcd_sheet'.
+  . Correctly requested 'Super Fetch Ball_screen_srf' 0x7E90 bytes at 0x0674A6 in chunk '_sugar_'.
+  . Correctly requested 'shades_bnk' 0x0280 bytes at 0x06F336 in chunk '_sugar_'.
+  . Correctly requested 'perlin_bnk' 0x7F00 bytes at 0x06F5B6 in chunk '_sugar_'.
+ !! Could not open file 'flags.bnk': No such file or directory'.
+  . Correctly requested 'flags_bnk' 0x0800 bytes at 0x0774B6 in chunk '_sugar_'.
+ !! Could not open file 'level.bnk': No such file or directory'.
+  . Relocating chunk '_sugar_' for resizing.
+  . Resized '_sugar_' to 0x08DB92 bytes to fit new 'level_bnk' req.
+  . Correctly requested 'level_bnk' 0x015EDC bytes at 0x077CB6 in chunk '_sugar_'.
+  . Defined 32 buttons for player 0.
+  . Relocating chunk '_sugar_' for resizing.
+  . Resized '_sugar_' to 0x0921E2 bytes to fit new 'minimap_srf' req.
+  . Correctly requested 'minimap_srf' 0x4650 bytes at 0x08DB92 in chunk '_sugar_'.
+  . Created the 500 x 36 surface 'minimap'.
+  . Resized '_sugar_' to 0x0925E2 bytes to fit new 'minimap_stamp_srf' req.
+  . Correctly requested 'minimap_stamp_srf' 0x0400 bytes at 0x0921E2 in chunk '_sugar_'.
+  . Created the 32 x 32 surface 'minimap_stamp'.
+  . Relocating chunk '_sugar_' for resizing.
+  . Resized '_sugar_' to 0x093262 bytes to fit new 'warning_srf' req.
+  . Correctly requested 'warning_srf' 0x0C80 bytes at 0x0925E2 in chunk '_sugar_'.
+  . Created the 320 x 10 surface 'warning'.
+  . Relocating chunk '_sugar_' for resizing.
+  . Resized '_sugar_' to 0x0A1362 bytes to fit new 'circles_srf' req.
+  . Correctly requested 'circles_srf' 0xE100 bytes at 0x093262 in chunk '_sugar_'.
+  . Created the 240 x 240 surface 'circles'.
+  . Relocating chunk '_sugar_' for resizing.
+  . Resized '_sugar_' to 0x0A38E2 bytes to fit new 'sea_srf' req.
+  . Correctly requested 'sea_srf' 0x2580 bytes at 0x0A1362 in chunk '_sugar_'.
+  . Created the 240 x 40 surface 'sea'.
+  . Relocating chunk '_sugar_' for resizing.
+  . Resized '_sugar_' to 0x1BC3E2 bytes to fit new 'bg_0_srf' req.
+  . Correctly requested 'bg_0_srf' 0x118B00 bytes at 0x0A38E2 in chunk '_sugar_'.
+  . Created the 3992 x 288 surface 'bg_0'.
+  . Relocating chunk '_sugar_' for resizing.
+  . Resized '_sugar_' to 0x2F41E2 bytes to fit new 'bg_1_srf' req.
+  . Correctly requested 'bg_1_srf' 0x137E00 bytes at 0x1BC3E2 in chunk '_sugar_'.
+  . Created the 3992 x 320 surface 'bg_1'.
